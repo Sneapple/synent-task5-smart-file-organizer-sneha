@@ -1,0 +1,3 @@
+# Smart File Organizer
+# No external dependencies required.
+# Built entirely with the Python standard library.
