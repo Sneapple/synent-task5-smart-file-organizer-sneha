@@ -188,7 +188,26 @@ Move file using shutil
 Record operation in log
         ↓
 Display summary
-Project Structure
+
+---
+
+## Screenshots
+
+### Dry Run Preview
+
+The dry-run mode allows users to preview planned file movements without modifying the directory.
+
+![Dry Run Preview](screenshots/dry-run-demo.png)
+
+### Organization Result
+
+After confirmation, files are automatically moved into their appropriate categories.
+
+![Organization Result](screenshots/organization-result.png)
+
+---
+
+## Project Structure
 synent-task5-smart-file-organizer-sneha/
 │
 ├── README.md
